@@ -7,7 +7,7 @@ In the final architecture AWS API Gateway and AWS Lambda functions is used as we
 
 ![image](https://user-images.githubusercontent.com/77180350/113464014-50fa9b80-93ef-11eb-8bd5-7e228d4acfd1.png)
 
-You can find the original code without solutions in the original https://github.com/udacity/sagemaker-deployment.
+You can find the original code without solutions in the original [Udacity SageMaker Deployment repository](https://github.com/udacity/sagemaker-deployment).
 
 # Setup instructions
 
