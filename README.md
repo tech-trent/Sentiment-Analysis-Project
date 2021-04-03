@@ -24,4 +24,4 @@ The final project will be executed in a simple html page which can be deployed a
 
 You will see the following:
 
-![image](https://user-images.githubusercontent.com/77180350/113464120-062d5380-93f0-11eb-86ff-273816e851e4.png)
+![image](https://user-images.githubusercontent.com/77180350/113464138-22c98b80-93f0-11eb-8d0a-10c7ba987e9c.png)
