@@ -24,5 +24,4 @@ The final project will be executed in a simple html page which can be deployed a
 
 You will see the following:
 
-https://github.com/hjlopes/sagemaker-sentiment-analysis/blob/master/webapp.gif
-
+![image](https://user-images.githubusercontent.com/77180350/113464120-062d5380-93f0-11eb-86ff-273816e851e4.png)
