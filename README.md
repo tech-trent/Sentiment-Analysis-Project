@@ -14,9 +14,11 @@ You can find the original code without solutions in the original [Udacity SageMa
 Please see the original README in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
 For the solutions only clone this repository:
 
-- cd SageMaker
-- git clone https://github.com/hjlopes/sagemaker-sentiment-analysis
-- exit
+```
+cd SageMaker
+git clone https://github.com/tech-trent/sentiment-analysis-project.git
+exit
+```
 
 # Web app final result
 
