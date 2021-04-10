@@ -24,4 +24,4 @@ The final project will be executed in a simple html page which can be deployed a
 
 You will see the following:
 
-webapp.gif
+![Web app example](./webapp.gif) 
