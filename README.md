@@ -24,4 +24,4 @@ The final project will be executed in a simple html page which can be deployed a
 
 You will see the following:
 
-![image](https://user-images.githubusercontent.com/77180350/113464159-3e349680-93f0-11eb-9fe0-1fd4e8672cb7.png)
+https://github.com/tech-trent/sentiment-analysis-project/blob/main/webapp.gif
